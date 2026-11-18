@@ -20,7 +20,5 @@ This is an edit to README.
 
 ciao sto modificando
 
-
-=======
 modifying the file
->>>>>>> 0787cd7eb2cb3bd5a481ca52482cc9da09572c1d
+ù
